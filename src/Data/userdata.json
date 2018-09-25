@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Lăng Hoài An",
+        "tel": "0968428255",
+        "privilage": 1
+    },
+    {
+        "id": 2,
+        "name": "Chu Minh Qúy",
+        "tel": "09684357798",
+        "privilage": 0
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Hồng Hiệp",
+        "tel": "0968428255",
+        "privilage": 2
+    },
+    {
+        "id": 4,
+        "name": "Trần Văn Nam",
+        "tel": "0968428255",
+        "privilage": 2
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Duy Mạnh",
+        "tel": "02866255645",
+        "privilage": 1
+    }
+
+]
